@@ -63,14 +63,14 @@ body{
 .protoboard{
     width: 25%;
     display: inline;
-    padding: 5f0px;
+    padding: 50px;
 }
 
 .multimetro{
     width: 25%;
     display: inline;
     padding: 35px;
-    margin-right: 100px;
+    margin-left: 60px;
 }
 
 .capacitor{
