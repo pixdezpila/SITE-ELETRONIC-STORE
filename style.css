@@ -55,13 +55,13 @@ body{
 }
 
 .arduino{
-    width: 30%;
+    width: 25%;
     display: inline;
     padding: 30px;
 }
 
 .protoboard{
-    width: 30%;
+    width: 25%;
     display: inline;
     padding: 120px;
 }
