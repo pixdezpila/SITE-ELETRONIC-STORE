@@ -71,7 +71,9 @@ body{
 
 .multimetro{
     width: 25%;
-    margin-right: 30px;
+    display: inline;
+    padding: 20px;
+    margin-left: 140px;
 }
 
 .capacitor{
