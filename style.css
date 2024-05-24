@@ -58,6 +58,8 @@ body{
     width: 25%;
     display: inline;
     padding: 30px;
+    margin-left: 60px;
+    margin-right: 40px;
 }
 
 .protoboard{
